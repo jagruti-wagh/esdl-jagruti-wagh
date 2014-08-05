@@ -16,5 +16,4 @@ int main()
 {
   add a;
   a.add();
-cout<<"Hi this is Jagruti";
 }
